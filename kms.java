@@ -93,7 +93,7 @@ public class kms {
             System.out.println();
         }
         System.out.println("Thank you for using Unit Converter!");
-        scanner.close();
+        
     }
     public static double convertINRToUSD(double amountINR) {
         return amountINR / 82.27;
