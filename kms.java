@@ -96,11 +96,11 @@ public class kms {
         scanner.close();
     }
     public static double convertINRToUSD(double amountINR) {
-        return amountINR / 75.0;
+        return amountINR / 82.27;
     }
 
     public static double convertINRToEuro(double amountINR) {
-        return amountINR / 88.5;
+        return amountINR / 89.5;
     }
 
     public static double convertINRToPound(double amountINR) {
